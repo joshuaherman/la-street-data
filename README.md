@@ -1,7 +1,7 @@
 # la-street-data
 Datasets about LA streets
 
-Intersect_StreetSweep_OSM_Modified: Is all street sweeping rules for each street with attached Route Numbers and encoded in lat/long. All Freeways/Motorways have been removed from the dataset.
+
 
 
     Copyright 2017 Joshua Herman and Eli Selkin
